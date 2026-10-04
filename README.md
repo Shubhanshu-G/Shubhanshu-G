@@ -1,42 +1,84 @@
-```
-██╗  ██╗███████╗██╗   ██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗
-██║  ██║██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
-███████║█████╗   ╚████╔╝        ██║   ███████║█████╗  ██████╔╝█████╗
-██╔══██║██╔══╝    ╚██╔╝         ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝
-██║  ██║███████╗   ██║          ██║   ██║  ██║███████╗██║  ██║███████╗
-╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-```
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Heya!+I'm+Shubhanshu+%F0%9F%91%8B;Data+Science+Intern+%40+FARE+Labs;I+build+ML%2FAI+systems+that+ship;Generative+AI+%7C+RAG+%7C+Agentic+AI)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=190&section=header&text=Shubhanshu%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Data%20Science%20Intern%20%40%20FARE%20Labs%20%C2%B7%20ML%20%2F%20GenAI%20%2F%20Forecasting&descSize=16&descColor=9ECBFF&descAlignY=54" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Intern+%40+FARE+Labs;I+build+ML%2FAI+systems+that+ship;Generative+AI+%C2%B7+RAG+%C2%B7+Agentic+AI;Forecasting+%C2%B7+Evaluation+Pipelines)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshu-gupta135)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subanshugupta135@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhanshu-G)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubhanshu__135)
 
 </div>
 
-Electrical & Computer Engineering student, currently working as a Data Science Intern at FARE Labs Pvt. Ltd. I build ML/AI systems — evaluation pipelines, forecasting models, and applied Generative AI/RAG projects.
+## 👨‍💻 About Me
 
-## 🌐 Socials
+- 🔭 Currently a **Data Science Intern @ FARE Labs Pvt. Ltd.**, building production-ready ML/AI systems
+- 🎓 **Electrical & Computer Engineering** student with a focus on applied Machine Learning
+- 🤖 Working across **Generative AI, RAG pipelines, and Agentic AI** workflows
+- 📈 Hands-on with **forecasting models and ML evaluation pipelines**
+- 📫 Open to internships and collaborations in **Data Science / ML / AI**
+- ⚡ Reach me anytime: [subanshugupta135@gmail.com](mailto:subanshugupta135@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhanshu__135) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubhanshu-gupta135) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subanshugupta135@gmail.com)
+## 🛠️ Tech Stack
 
-# 💻 Tech Stack
+**Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 🧮 GitHub Stats
+**ML / Data Science**
 
-![](https://github-readme-stats.shion.dev/api?username=Shubhanshu-G&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shubhanshu-G&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubhanshu-G&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%230194e2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230A0A0A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 🏆 GitHub Trophies
+**Backend & Deployment**
 
-![](https://github-profile-trophy.vercel.app/?username=Shubhanshu-G&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### ✍️ Random Dev Quote
+**Databases & BI**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubhanshu-G&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhanshu-G&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=Shubhanshu-G&theme=github-dark-blue&hide_border=true&locale=en" alt="GitHub streak" />
+
+<img width="100%" src="https://github-activity-graph.vercel.app/graph?username=Shubhanshu-G&bg_color=0d1117&color=9ECBFF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shubhanshu-G&icon=0&color=0)](https://visitcount.itsvg.in)
-"# Shubhanshu-G"
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shubhanshu-G&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+
+<br/>
+
+**Let's connect and build something great together.** 🤝
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=110&section=footer" width="100%" />
+
+</div>
