@@ -73,10 +73,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Shubhanshu-G&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views" />
-
-<br/>
-
 **Let's connect and build something great together.** 🤝
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=110&section=footer" width="100%" />
